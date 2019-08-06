@@ -24,7 +24,7 @@
 
     <div>
 
-      <v-toolbar app >
+      <v-toolbar>
 
         <v-app-bar-nav-icon
                 @click="drawer = !drawer"
