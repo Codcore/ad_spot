@@ -60,7 +60,7 @@
         drawer: false,
         links: [
           {title: 'Login', icon: 'mdi-lock', url: '/login'},
-          {title: 'Registration', icon: 'mdi-face', url: '/registration'},
+          {title: 'Registration', icon: 'mdi-account-circle', url: '/registration'},
           {title: 'Orders', icon: 'mdi-bookmark-outline', url: '/orders'},
           {title: 'New ad', icon: 'mdi-plus-circle-outline', url: '/new'},
           {title: 'My ads', icon: 'mdi-view-list', url: '/list'}
